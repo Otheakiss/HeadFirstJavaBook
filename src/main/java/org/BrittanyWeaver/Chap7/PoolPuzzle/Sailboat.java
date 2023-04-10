@@ -1,4 +1,4 @@
-package org.BrittanyWeaver.Chap6.PoolPuzzle;
+package org.BrittanyWeaver.Chap7.PoolPuzzle;
 
 public class Sailboat extends Boat{
 
